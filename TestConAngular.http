@@ -1,0 +1,6 @@
+@TestConAngular_HostAddress = http://localhost:5159
+
+GET {{TestConAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
